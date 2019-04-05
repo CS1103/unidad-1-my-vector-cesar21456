@@ -12,9 +12,9 @@ class vector {
 public:
     vector();
     ~vector();
-    void push_back(const int& value);
+    void push_back(const int value);
     void pop_back();
-    void insert(int pos, const int& value);
+    void insert(int pos, const int value);
     int get_item(int i);
     int size();
 };
