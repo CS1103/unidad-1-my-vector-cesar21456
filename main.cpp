@@ -7,7 +7,7 @@ int main() {
 
     // Creando vectores
     std::vector<int> vec1;
-    vector2 vec2;
+    UTEC::vector2 vec2;
 
     // Agregando datos
     for (int i = 0; i < 100; ++i) {
